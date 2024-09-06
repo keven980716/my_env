@@ -257,7 +257,6 @@ uuid==1.30
 uvicorn==0.30.6
 uvloop==0.20.0
 vllm==0.5.4
-vllm-flash-attn==2.6.1
 watchfiles==0.24.0
 wcmatch==8.5.2
 wcwidth==0.2.13
